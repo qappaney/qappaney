@@ -16,7 +16,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-mohamedkappaney@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mohamedkappaney@gmail.com)](mohamedkappaney@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qappaney.jr/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Qappaney)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
@@ -25,6 +24,8 @@
 * Data Science
 * Data Analysis
 * SQL
+* Power BI
+* EXCEL
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
@@ -62,6 +63,5 @@
   - :octocat: [My Resume](https://drive.google.com/drive/u/2/folders/1RP66kkxzXGbYaHg4kq7pUoiz7OxFPxKJ)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Qappanet's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
  
  
