@@ -48,7 +48,7 @@
 		return May15City_Cairo_Egypt()
 	
 	def Ambitions():
-                SaveQuran()
+         SaveQuran()
 		LearnML()
 		GetJop()
 		# Assume 10 more awesome ambitions here  ;)
