@@ -6,7 +6,7 @@
 </p>
 
 
- ## Hey, [Qapp here!](https://www.facebook.com/mohamedqappaney/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+ ## Hey, [Qapp here!]([https://www.facebook.com/mohamedqappaney/](https://www.linkedin.com/in/mohamed-el-qappaney-70623019a/))  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
@@ -19,12 +19,14 @@
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-## :computer: Technologies I Love
+## :computer: Technologies I Worked with
 * Machine Learning
-* Data Science
 * Data Analysis
 * SQL
+* Bi-SQL
+* Statistics
 * Power BI
+* Tableau
 * EXCEL
 
 ## Programming Languages
@@ -56,8 +58,8 @@
  ```
  
 ## Current Works
- * Started learning Data Science !!
- * I'm currently working on 🔭 building **Ml Models** and working up on polishing my skills 🌱 in **ML and Data science**.
+ * Started learning Data Analysis !!
+ * I'm currently working on 🔭 building **BI models** and working up on polishing my skills 🌱 in **BI and Data Analysis**.
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/drive/u/2/folders/1RP66kkxzXGbYaHg4kq7pUoiz7OxFPxKJ)
