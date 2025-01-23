@@ -10,7 +10,6 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://images.app.goo.gl/wUYitjLRizWXykzQ8' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedQappaney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mohamed-el-qappaney-70623019a/) 
 [![Gmail Badge](https://img.shields.io/badge/-mohamedkappaney@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mohamedkappaney@gmail.com)](mohamedkappaney@gmail.com)
@@ -30,6 +29,7 @@
 * EXCEL
 
 ## Programming Languages
+<img src = 'https://images.app.goo.gl/wUYitjLRizWXykzQ8' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> 
  
