@@ -2,11 +2,11 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Mohammed%20Hassan%20El-Qappaney;Fresh%20graduate%20CS%20Student;Data Science%20and %20 ML Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mohammed%20Hassan%20El-Qappaney;Fresh%20graduate%20CS%20Student;Data Analysis%20and %20 ML Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
- ## Hey, [Qapp here!]([https://www.facebook.com/mohamedqappaney/](https://www.linkedin.com/in/mohamed-el-qappaney-70623019a/))  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+ ## Hey, [Qapp here!]([(https://www.linkedin.com/in/mohamed-el-qappaney-70623019a/)])  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
