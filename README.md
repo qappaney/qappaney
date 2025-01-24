@@ -61,7 +61,7 @@
  * I'm currently working on 🔭 building **BI Reports** and working up on polishing my skills 🌱 in **BI and Data Analysis**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/drive/u/2/folders/1RP66kkxzXGbYaHg4kq7pUoiz7OxFPxKJ)
+  - :octocat: [My Resume]()
 
  
  
