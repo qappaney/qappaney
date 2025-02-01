@@ -11,7 +11,7 @@
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-MohamedEl-Qappaney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mohamed-el-qappaney-70623019a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedElQappaney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mohamed-el-qappaney-70623019a/) 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedQappaney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.novypro.com/profile_about/mohamed-el-qappaney) 
 [![Gmail Badge](https://img.shields.io/badge/-mohamedkappaney@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mohamedkappaney@gmail.com)](mohamedkappaney@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qappaney.jr/)
