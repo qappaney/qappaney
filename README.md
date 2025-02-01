@@ -12,6 +12,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedQappaney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mohamed-el-qappaney-70623019a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedQappaney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]((https://www.novypro.com/profile_about/mohamed-el-qappaney)) 
 [![Gmail Badge](https://img.shields.io/badge/-mohamedkappaney@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mohamedkappaney@gmail.com)](mohamedkappaney@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qappaney.jr/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Qappaney)
